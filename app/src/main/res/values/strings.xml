@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test Technique 2</string>
+
+    <!-- RANDOM ACTOR -->
+    <string name="random_actor_name">Nom : </string>
+    <string name="random_actor_nickname">Surnom : </string>
+    <string name="random_actor_job">Metier : </string>
+    <string name="random_actor_season">Saisons : </string>
+
+    <string name="random_actor_button">Aléatoire</string>
+
+    <string name="random_actor_image_contentDescription">Photo de l\'acteur</string>
+</resources>
